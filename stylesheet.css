@@ -37,7 +37,7 @@
   .top-wrapper {
     padding: 180px 0 100px 0;
     background-image: url(https://i.ibb.co/TWhskLZ/Whats-App-Image-2021-04-25-at-10-13-19-PM.jpg);
-    background-size: 50%;
+    background-size: contain;
     opacity: 1;
     color: rgb(36, 33, 33);
     text-align: center;
