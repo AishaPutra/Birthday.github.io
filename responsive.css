@@ -26,7 +26,7 @@
     
     .top-wrapper {
       text-align: left;
-      background-size: contain;
+      background-size: auto;
     }
     
     /* Tambahkan CSS untuk header-right */
