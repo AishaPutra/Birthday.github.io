@@ -28,6 +28,9 @@
       text-align: left;
       background-size: 100%;
     }
+    .header-center {
+        width: 100%;
+    }
     
     /* Tambahkan CSS untuk header-right */
     .header-right {
