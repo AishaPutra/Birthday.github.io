@@ -51,6 +51,9 @@
     text-align: center;
     height: 1000px;
   }
+   .header-center {
+    display: block;
+  }
   
   .top-wrapper h1 {
     font-size: 45px;
